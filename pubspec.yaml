@@ -1,6 +1,6 @@
 name: flutter_liquid_glass
 description: A comprehensive Flutter package that brings Apple's Liquid Glass design language to Flutter apps with extensive customization options.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/CanArslanDev/flutter_liquid_glass
 repository: https://github.com/CanArslanDev/flutter_liquid_glass
 issue_tracker: https://github.com/CanArslanDev/flutter_liquid_glass/issues
